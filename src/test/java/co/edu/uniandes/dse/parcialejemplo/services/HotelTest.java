@@ -59,8 +59,6 @@ public class HotelTest {
         hotelEntity.setNombre("Hotel 2");
         entityManager.persist(hotelEntity);
 		hotelList.add(hotelEntity);
-
-    
 	}
 
 
